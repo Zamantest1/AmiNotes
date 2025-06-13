@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "AmiNotes",
+    "slug": "aminas-aura-notes",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FDF7FA"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FDF7FA"
+      },
+      "package": "com.pekisar270.aminotes"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
