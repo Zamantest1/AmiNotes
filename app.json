@@ -2,7 +2,7 @@
   "expo": {
     "name": "AmiNotes",
     "slug": "aminas-aura-notes",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -21,7 +21,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FDF7FA"
       },
-      "package": "com.pekisar270.aminotes"
+      "package": "com.pekisar270.aminotes",
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
